@@ -6,6 +6,6 @@ public class DemoSkillsTest{
 
     @Test
     public void Test(){
-        assertEquals(20, test1.average());
+        assertEquals(30, test1.average());
     }
 }
